@@ -4,5 +4,5 @@
 	"end_date": "Nov/2023",
 	"description": "description ...",
 	"languages": ["Python", "Javascript"],
-	"technologies: ["Selenium", "APIs"]
+	"technologies": ["Selenium", "APIs"]
 }
