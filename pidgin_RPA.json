@@ -3,6 +3,6 @@
 	"start_date": "Ago/2023",
 	"end_date": "Nov/2023",
 	"description": "description ...",
-	"languages": '["Python", "Javascript"]',
-	"technologies: '["Selenium", "APIs"]'
+	"languages": ["Python", "Javascript"],
+	"technologies: ["Selenium", "APIs"]
 }
